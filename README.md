@@ -7,7 +7,7 @@ Our study highlights that the relationship between some sociodemographic factors
 Our analysis showed that the bivariate interaction of low education along with other factors such as elderly population, Hispanic, and non-Hispanic Black (NHB) population are more associated with increased infection, while the interaction effects of population density with the elderly population, male population with poverty, and Hispanic population with low education were associated with increased fatality. Furthermore, the univariate model did not capture the impact of obesity on infections, but through interaction analysis, a positive influence emerged when considering the interplay between obesity and the elderly population. Similarly, the univariate models failed to capture the impact of less education and the Hispanic population on infections, as well as the influence of poverty on fatality. Employing interaction models unveiled these significant associations, emphasizing the added insights gained by considering the interplay between variables.
 
 # Coding language and library
-We used the R language (version 4.2.0) for the data analysis, along with the following libraries: GGally, dplyr,plyr, ggplot2, tidyr, tibble, purrr,sp, moments, MASS, foreign, car, readxl, FSA, ggpubr, svglite, formattable, VGAM, cluster, Metrics
+We used the R language (version 4.2.0) for the data analysis, along with the following libraries: GGally, dplyr,plyr, ggplot2, tidyr, tibble, purrr,sp, moments, MASS, foreign, car, readxl, FSA, ggpubr, svglite, formattable, VGAM, cluster, Metrics. The code is available unde covid_manuscript.RMD and data available in data folder.
 
 
 
